@@ -1,0 +1,4 @@
+name: iCoPay
+author: slipcor
+main: net.slipcor.icopay.iCoPay
+version: v0.0.0.1
