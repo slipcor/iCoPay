@@ -1,4 +1,5 @@
 name: iCoPay
 author: slipcor
 main: net.slipcor.icopay.iCoPay
-version: v0.0.0.1
+website: http://dev.bukkit.org/server-mods/icopay/
+version: v0.0.2.0

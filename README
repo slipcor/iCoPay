@@ -1,0 +1,5 @@
+CHANGELOG
+
+v0.0.2 - compile against bukkit 1.2.5, add iCo6 support
+v0.0.1 - compile against bukkit 1.1, minor rewrite
+v0.0.0 - first working version
